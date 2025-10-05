@@ -1,0 +1,33 @@
+.bg_green {
+  background-color: green;
+}
+
+.txt_green {
+  color: green;
+}
+
+.bg_black {
+  background-color: black;
+}
+
+.standard_text {
+  font-family: "Smooch Sans", sans-serif;
+}
+
+.animation_text {
+  font-family: "Bungee Spice", sans-serif;
+}
+
+.pacifico_text {
+  font-family: "Pacifico", cursive;
+}
+
+.archivo_text {
+  font-family: "Archivo Black", sans-serif;
+
+}
+
+#nav_hover:hover {
+  color: aliceblue;
+  text-decoration: underline;
+}
